@@ -1,0 +1,47 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.cxx/
+
+# Google Services (uncomment if using Firebase)
+# google-services.json
+
+# Pre-built database (too large for GitHub, generate locally)
+app/src/main/assets/lexicon.db
+
+# Data source repos (cloned separately)
+LSJ_GreekUnicode/
+SmithHall1871/
